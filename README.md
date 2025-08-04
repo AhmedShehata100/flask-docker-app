@@ -2,7 +2,7 @@
 
 A simple web application built with **Flask** and **Redis**, containerized using **Docker Compose**.
 
-## 📦 Project Structure
+### 📦 Project Structure
 
 project/
 ├── app.py
@@ -12,14 +12,14 @@ project/
 └── .gitignore
 
 
-## 🚀 Features
+### 🚀 Features
 
 - Python Flask web server
 - Redis as a backend datastore
 - Dockerized using Dockerfile and Docker Compose
 - Hot reload for development
 
-## 🐳 Running the Project with Docker
+### 🐳 Running the Project with Docker
 
 Make sure you have Docker and Docker Compose installed.
 
